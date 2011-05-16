@@ -5,9 +5,9 @@ author:
 build_requires:
   Test::More: 0.47
 configure_requires:
-  ExtUtils::MakeMaker: 6.31
+  ExtUtils::MakeMaker: 6.30
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 4.200004, CPAN::Meta::Converter version 2.110580'
+generated_by: 'Dist::Zilla version 4.200006, CPAN::Meta::Converter version 2.110930'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -17,6 +17,6 @@ requires:
   Acme::CPANAuthors: 0
   perl: v5.6.0
 resources:
-  homepage: http://github.com/bingos/acme-cpanauthors-duallife/tree
-  repository: git://github.com/bingos/acme-cpanauthors-duallife.git
-version: 0.02
+  homepage: http://github.com/bingos/acme-cpanauthors-duallife
+  repository: http://github.com/bingos/acme-cpanauthors-duallife
+version: 0.04
