@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 BEGIN {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.04';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.06';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -31,12 +31,10 @@ use Acme::CPANAuthors::Register (
   JDB => q[Jan Dubois],
   JDHEDDEN => q[Jerry D. Hedden],
   JESSE => q[Jesse Vincent],
-  JHI => q[Jarkko Hietaniemi],
   JPEACOCK => q[John Peacock],
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
-  LARSEN => q[Stefano Rodighiero],
   LBROCARD => q[Leon Brocard],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MAREKR => q[Marek Rouchal],
@@ -86,7 +84,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.04
+version 0.06
 
 =head1 SYNOPSIS
 
@@ -131,12 +129,10 @@ It is currently statically generated information, I hope to make it dynamic in t
   JDB => q[Jan Dubois],
   JDHEDDEN => q[Jerry D. Hedden],
   JESSE => q[Jesse Vincent],
-  JHI => q[Jarkko Hietaniemi],
   JPEACOCK => q[John Peacock],
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
-  LARSEN => q[Stefano Rodighiero],
   LBROCARD => q[Leon Brocard],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MAREKR => q[Marek Rouchal],

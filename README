@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.04
+    version 0.06
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -47,12 +47,10 @@ CONTAINED AUTHORS
       JDB => q[Jan Dubois],
       JDHEDDEN => q[Jerry D. Hedden],
       JESSE => q[Jesse Vincent],
-      JHI => q[Jarkko Hietaniemi],
       JPEACOCK => q[John Peacock],
       JSTOWE => q[Jonathan Stowe],
       JV => q[Johan Vromans],
       KANE => q[Jos Boumans],
-      LARSEN => q[Stefano Rodighiero],
       LBROCARD => q[Leon Brocard],
       MAKAMAKA => q[Makamaka Hannyaharamitu],
       MAREKR => q[Marek Rouchal],
