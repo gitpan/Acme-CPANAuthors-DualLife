@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 BEGIN {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.06';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.08';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -45,6 +45,7 @@ use Acme::CPANAuthors::Register (
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
+  MSTROUT => q[Matt S Trout],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   PETDANCE => q[Andy Lester],
@@ -84,7 +85,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.06
+version 0.08
 
 =head1 SYNOPSIS
 
@@ -143,6 +144,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
+  MSTROUT => q[Matt S Trout],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   PETDANCE => q[Andy Lester],

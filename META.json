@@ -4,7 +4,7 @@
       "Chris Williams"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.200009, CPAN::Meta::Converter version 2.110930001",
+   "generated_by" : "Dist::Zilla version 4.200012, CPAN::Meta::Converter version 2.110930001",
    "license" : [
       "perl_5"
    ],
@@ -33,13 +33,13 @@
    },
    "release_status" : "stable",
    "resources" : {
-      "homepage" : "http://github.com/bingos/acme-cpanauthors-duallife",
+      "homepage" : "https://github.com/bingos/acme-cpanauthors-duallife",
       "repository" : {
          "type" : "git",
-         "url" : "http://github.com/bingos/acme-cpanauthors-duallife",
-         "web" : "http://github.com/bingos/acme-cpanauthors-duallife"
+         "url" : "https://github.com/bingos/acme-cpanauthors-duallife",
+         "web" : "https://github.com/bingos/acme-cpanauthors-duallife"
       }
    },
-   "version" : "0.06"
+   "version" : "0.08"
 }
 
