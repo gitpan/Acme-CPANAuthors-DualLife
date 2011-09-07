@@ -9,24 +9,24 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  'ABSTRACT' => 'We are CPAN Authors of Dual Life core modules',
-  'AUTHOR' => 'Chris Williams',
-  'BUILD_REQUIRES' => {
-    'Test::More' => '0.47'
+  "ABSTRACT" => "We are CPAN Authors of Dual Life core modules",
+  "AUTHOR" => "Chris Williams",
+  "BUILD_REQUIRES" => {
+    "Test::More" => "0.47"
   },
-  'CONFIGURE_REQUIRES' => {
-    'ExtUtils::MakeMaker' => '6.30'
+  "CONFIGURE_REQUIRES" => {
+    "ExtUtils::MakeMaker" => "6.30"
   },
-  'DISTNAME' => 'Acme-CPANAuthors-DualLife',
-  'EXE_FILES' => [],
-  'LICENSE' => 'perl',
-  'NAME' => 'Acme::CPANAuthors::DualLife',
-  'PREREQ_PM' => {
-    'Acme::CPANAuthors' => '0'
+  "DISTNAME" => "Acme-CPANAuthors-DualLife",
+  "EXE_FILES" => [],
+  "LICENSE" => "perl",
+  "NAME" => "Acme::CPANAuthors::DualLife",
+  "PREREQ_PM" => {
+    "Acme::CPANAuthors" => 0
   },
-  'VERSION' => '0.08',
-  'test' => {
-    'TESTS' => 't/*.t'
+  "VERSION" => "0.10",
+  "test" => {
+    "TESTS" => "t/*.t"
   }
 );
 

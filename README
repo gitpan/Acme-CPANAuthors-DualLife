@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.08
+    version 0.10
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -52,6 +52,7 @@ CONTAINED AUTHORS
       JV => q[Johan Vromans],
       KANE => q[Jos Boumans],
       LBROCARD => q[Leon Brocard],
+      LLAP => q[Leo Lapworth],
       MAKAMAKA => q[Makamaka Hannyaharamitu],
       MAREKR => q[Marek Rouchal],
       MARKM => q[Mark Mielke],
@@ -70,7 +71,6 @@ CONTAINED AUTHORS
       PMQS => q[Paul Marquess],
       RGARCIA => q[Rafael Garcia-Suarez],
       RJBS => q[Ricardo SIGNES],
-      RKOBES => q[Randy Kobes (contact brian d foy)],
       RMBARKER => q[Robin Barker],
       RRA => q[Russ Allbery],
       RURBAN => q[Reini Urban],

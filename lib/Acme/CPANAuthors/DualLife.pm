@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
-BEGIN {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.08';
+{
+  $Acme::CPANAuthors::DualLife::VERSION = '0.10';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -36,6 +36,7 @@ use Acme::CPANAuthors::Register (
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
   LBROCARD => q[Leon Brocard],
+  LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MAREKR => q[Marek Rouchal],
   MARKM => q[Mark Mielke],
@@ -54,7 +55,6 @@ use Acme::CPANAuthors::Register (
   PMQS => q[Paul Marquess],
   RGARCIA => q[Rafael Garcia-Suarez],
   RJBS => q[Ricardo SIGNES],
-  RKOBES => q[Randy Kobes (contact brian d foy)],
   RMBARKER => q[Robin Barker],
   RRA => q[Russ Allbery],
   RURBAN => q[Reini Urban],
@@ -85,7 +85,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.08
+version 0.10
 
 =head1 SYNOPSIS
 
@@ -135,6 +135,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
   LBROCARD => q[Leon Brocard],
+  LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MAREKR => q[Marek Rouchal],
   MARKM => q[Mark Mielke],
@@ -153,7 +154,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   PMQS => q[Paul Marquess],
   RGARCIA => q[Rafael Garcia-Suarez],
   RJBS => q[Ricardo SIGNES],
-  RKOBES => q[Randy Kobes (contact brian d foy)],
   RMBARKER => q[Robin Barker],
   RRA => q[Russ Allbery],
   RURBAN => q[Reini Urban],
