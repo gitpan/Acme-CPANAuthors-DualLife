@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.10';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.12';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -42,14 +42,13 @@ use Acme::CPANAuthors::Register (
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
-  MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
-  MSTROUT => q[Matt S Trout],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   PETDANCE => q[Andy Lester],
+  PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
   PJF => q[Paul Jamieson Fenwick],
   PMQS => q[Paul Marquess],
@@ -63,6 +62,7 @@ use Acme::CPANAuthors::Register (
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
+  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],
@@ -85,7 +85,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.10
+version 0.12
 
 =head1 SYNOPSIS
 
@@ -141,14 +141,13 @@ It is currently statically generated information, I hope to make it dynamic in t
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
-  MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
-  MSTROUT => q[Matt S Trout],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   PETDANCE => q[Andy Lester],
+  PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
   PJF => q[Paul Jamieson Fenwick],
   PMQS => q[Paul Marquess],
@@ -162,6 +161,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
+  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],
@@ -183,7 +183,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2011 by Chris Williams.
+This software is copyright (c) 2012 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
