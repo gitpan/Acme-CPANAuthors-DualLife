@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.12';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.14';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -14,6 +14,7 @@ use Acme::CPANAuthors::Register (
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
+  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -36,8 +37,10 @@ use Acme::CPANAuthors::Register (
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
   LBROCARD => q[Leon Brocard],
+  LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
+  MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
@@ -85,7 +88,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.12
+version 0.14
 
 =head1 SYNOPSIS
 
@@ -113,6 +116,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
+  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -135,8 +139,10 @@ It is currently statically generated information, I hope to make it dynamic in t
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
   LBROCARD => q[Leon Brocard],
+  LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
+  MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],

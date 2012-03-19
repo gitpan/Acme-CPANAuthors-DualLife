@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.12
+    version 0.14
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -30,6 +30,7 @@ CONTAINED AUTHORS
       ANDK => q[Andreas J. Koenig],
       ANDYA => q[Andy Armstrong],
       AUDREYT => q[Audrey Tang],
+      BDFOY => q[brian d foy],
       BINGOS => q[Chris Williams],
       CHORNY => q[Alexandr Ciornii],
       CORION => q[Max Maischein],
@@ -52,8 +53,10 @@ CONTAINED AUTHORS
       JV => q[Johan Vromans],
       KANE => q[Jos Boumans],
       LBROCARD => q[Leon Brocard],
+      LEONT => q[Leon Timmermans],
       LLAP => q[Leo Lapworth],
       MAKAMAKA => q[Makamaka Hannyaharamitu],
+      MALLEN => q[Mark Allen],
       MAREKR => q[Marek Rouchal],
       MARKM => q[Mark Mielke],
       MARKSTOS => q[Mark Stosberg],
