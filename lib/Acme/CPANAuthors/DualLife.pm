@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.14';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.16';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -14,7 +14,6 @@ use Acme::CPANAuthors::Register (
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -45,11 +44,13 @@ use Acme::CPANAuthors::Register (
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
+  MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
+  OVID => q[Curtis 'Ovid' Poe],
   PETDANCE => q[Andy Lester],
   PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
@@ -88,7 +89,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.14
+version 0.16
 
 =head1 SYNOPSIS
 
@@ -116,7 +117,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -147,11 +147,13 @@ It is currently statically generated information, I hope to make it dynamic in t
   MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
+  MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
   MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
+  OVID => q[Curtis 'Ovid' Poe],
   PETDANCE => q[Andy Lester],
   PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
