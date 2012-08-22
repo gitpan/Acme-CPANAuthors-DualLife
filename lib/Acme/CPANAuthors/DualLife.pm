@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.16';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.18';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -13,6 +13,7 @@ use Acme::CPANAuthors::Register (
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
+  APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
@@ -21,6 +22,7 @@ use Acme::CPANAuthors::Register (
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
+  DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   FERREIRA => q[Adriano Ferreira],
@@ -89,7 +91,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.16
+version 0.18
 
 =head1 SYNOPSIS
 
@@ -116,6 +118,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
+  APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
@@ -124,6 +127,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
+  DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   FERREIRA => q[Adriano Ferreira],
