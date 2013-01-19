@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.18';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.20';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -22,6 +22,7 @@ use Acme::CPANAuthors::Register (
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
+  DOM => q[Dominic Hargreaves],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
@@ -81,8 +82,8 @@ use Acme::CPANAuthors::Register (
 
 q[Dual life better than Real life];
 
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -91,7 +92,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.18
+version 0.20
 
 =head1 SYNOPSIS
 
@@ -127,6 +128,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
+  DOM => q[Dominic Hargreaves],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
@@ -195,10 +197,9 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Chris Williams.
+This software is copyright (c) 2013 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-

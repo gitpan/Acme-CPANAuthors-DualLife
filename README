@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.18
+    version 0.20
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -38,6 +38,7 @@ CONTAINED AUTHORS
       DANKOGAI => q[Dan Kogai],
       DAPM => q[David A P Mitchell],
       DLAND => q[David Landgren],
+      DOM => q[Dominic Hargreaves],
       DROLSKY => q[Dave Rolsky],
       DWHEELER => q[David E. Wheeler],
       ELIZABETH => q[Elizabeth Mattijsen],
@@ -103,7 +104,7 @@ AUTHOR
     Chris Williams
 
 COPYRIGHT AND LICENSE
-    This software is copyright (c) 2012 by Chris Williams.
+    This software is copyright (c) 2013 by Chris Williams.
 
     This is free software; you can redistribute it and/or modify it under
     the same terms as the Perl 5 programming language system itself.
