@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.20
+    version 0.22
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -31,6 +31,7 @@ CONTAINED AUTHORS
       ANDYA => q[Andy Armstrong],
       APEIRON => q[Chris Nehren],
       AUDREYT => q[Audrey Tang],
+      BDFOY => q[brian d foy],
       BINGOS => q[Chris Williams],
       CHORNY => q[Alexandr Ciornii],
       CORION => q[Max Maischein],
@@ -46,6 +47,7 @@ CONTAINED AUTHORS
       FLORA => q[Florian Ragwitz],
       GAAS => q[Gisle Aas],
       GBARR => q[Graham Barr],
+      HMBRAND => q[H.Merijn Brand],
       ILYAZ => q[Ilya Zakharevich],
       JDB => q[Jan Dubois],
       JDHEDDEN => q[Jerry D. Hedden],
@@ -60,7 +62,6 @@ CONTAINED AUTHORS
       MAKAMAKA => q[Makamaka Hannyaharamitu],
       MALLEN => q[Mark Allen],
       MAREKR => q[Marek Rouchal],
-      MARKM => q[Mark Mielke],
       MARKSTOS => q[Mark Stosberg],
       MHX => q[Marcus Holland-Moritz],
       MJD => q[Mark Jason Dominus],

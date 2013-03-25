@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.20';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.22';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -15,6 +15,7 @@ use Acme::CPANAuthors::Register (
   ANDYA => q[Andy Armstrong],
   APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
+  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -30,6 +31,7 @@ use Acme::CPANAuthors::Register (
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
   GBARR => q[Graham Barr],
+  HMBRAND => q[H.Merijn Brand],
   ILYAZ => q[Ilya Zakharevich],
   JDB => q[Jan Dubois],
   JDHEDDEN => q[Jerry D. Hedden],
@@ -44,7 +46,6 @@ use Acme::CPANAuthors::Register (
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
-  MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
@@ -92,7 +93,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.20
+version 0.22
 
 =head1 SYNOPSIS
 
@@ -121,6 +122,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDYA => q[Andy Armstrong],
   APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
+  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -136,6 +138,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
   GBARR => q[Graham Barr],
+  HMBRAND => q[H.Merijn Brand],
   ILYAZ => q[Ilya Zakharevich],
   JDB => q[Jan Dubois],
   JDHEDDEN => q[Jerry D. Hedden],
@@ -150,7 +153,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
-  MARKM => q[Mark Mielke],
   MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
