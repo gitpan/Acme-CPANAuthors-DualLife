@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.22';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.24';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -15,7 +15,6 @@ use Acme::CPANAuthors::Register (
   ANDYA => q[Andy Armstrong],
   APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -93,7 +92,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.22
+version 0.24
 
 =head1 SYNOPSIS
 
@@ -122,7 +121,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDYA => q[Andy Armstrong],
   APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],

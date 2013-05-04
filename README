@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.22
+    version 0.24
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -31,7 +31,6 @@ CONTAINED AUTHORS
       ANDYA => q[Andy Armstrong],
       APEIRON => q[Chris Nehren],
       AUDREYT => q[Audrey Tang],
-      BDFOY => q[brian d foy],
       BINGOS => q[Chris Williams],
       CHORNY => q[Alexandr Ciornii],
       CORION => q[Max Maischein],
