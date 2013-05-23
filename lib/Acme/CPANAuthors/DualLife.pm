@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.24';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.26';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -13,9 +13,9 @@ use Acme::CPANAuthors::Register (
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
-  APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
+  BOBTFISH => q[Tomas Doran],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
   DAGOLDEN => q[David Golden],
@@ -39,7 +39,6 @@ use Acme::CPANAuthors::Register (
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
-  LBROCARD => q[Leon Brocard],
   LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
@@ -69,7 +68,6 @@ use Acme::CPANAuthors::Register (
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
-  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],
@@ -92,7 +90,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.24
+version 0.26
 
 =head1 SYNOPSIS
 
@@ -119,9 +117,9 @@ It is currently statically generated information, I hope to make it dynamic in t
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
-  APEIRON => q[Chris Nehren],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
+  BOBTFISH => q[Tomas Doran],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
   DAGOLDEN => q[David Golden],
@@ -145,7 +143,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
-  LBROCARD => q[Leon Brocard],
   LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
@@ -175,7 +172,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
-  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],

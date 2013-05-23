@@ -19,4 +19,4 @@ requires:
 resources:
   homepage: https://github.com/bingos/acme-cpanauthors-duallife
   repository: https://github.com/bingos/acme-cpanauthors-duallife.git
-version: 0.24
+version: 0.26
