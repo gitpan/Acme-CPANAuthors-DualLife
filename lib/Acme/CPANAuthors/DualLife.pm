@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.26';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.28';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -48,12 +48,10 @@ use Acme::CPANAuthors::Register (
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
-  MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
-  PETDANCE => q[Andy Lester],
   PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
   PJF => q[Paul Jamieson Fenwick],
@@ -90,7 +88,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.26
+version 0.28
 
 =head1 SYNOPSIS
 
@@ -152,12 +150,10 @@ It is currently statically generated information, I hope to make it dynamic in t
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
-  MSERGEANT => q[MSERGEANT],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
-  PETDANCE => q[Andy Lester],
   PEVANS => q[Paul Evans],
   PJACKLAM => q[Peter John Acklam],
   PJF => q[Paul Jamieson Fenwick],
