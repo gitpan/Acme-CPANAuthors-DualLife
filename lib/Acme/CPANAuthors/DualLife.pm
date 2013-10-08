@@ -1,6 +1,6 @@
 package Acme::CPANAuthors::DualLife;
 {
-  $Acme::CPANAuthors::DualLife::VERSION = '0.28';
+  $Acme::CPANAuthors::DualLife::VERSION = '0.30';
 }
 
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
@@ -10,12 +10,12 @@ use warnings;
 
 use Acme::CPANAuthors::Register (
   ADAMK => q[Adam Kennedy],
+  AMBS => q[Alberto Manuel Brandao Simoes],
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
-  BOBTFISH => q[Tomas Doran],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
   DAGOLDEN => q[David Golden],
@@ -26,6 +26,7 @@ use Acme::CPANAuthors::Register (
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
+  ETHER => q[Karen Etheridge],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -66,6 +67,7 @@ use Acme::CPANAuthors::Register (
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
+  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],
@@ -88,7 +90,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.28
+version 0.30
 
 =head1 SYNOPSIS
 
@@ -112,12 +114,12 @@ It is currently statically generated information, I hope to make it dynamic in t
 =head1 CONTAINED AUTHORS
 
   ADAMK => q[Adam Kennedy],
+  AMBS => q[Alberto Manuel Brandao Simoes],
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
   BINGOS => q[Chris Williams],
-  BOBTFISH => q[Tomas Doran],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
   DAGOLDEN => q[David Golden],
@@ -128,6 +130,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
+  ETHER => q[Karen Etheridge],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -168,6 +171,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
   SBURKE => q[Sean M. Burke],
+  SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
   SMUELLER => q[Steffen Mueller],

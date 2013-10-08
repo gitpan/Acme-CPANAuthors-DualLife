@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.28
+    version 0.30
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -26,12 +26,12 @@ DESCRIPTION
 
 CONTAINED AUTHORS
       ADAMK => q[Adam Kennedy],
+      AMBS => q[Alberto Manuel Brandao Simoes],
       AMS => q[Abhijit Menon-Sen],
       ANDK => q[Andreas J. Koenig],
       ANDYA => q[Andy Armstrong],
       AUDREYT => q[Audrey Tang],
       BINGOS => q[Chris Williams],
-      BOBTFISH => q[Tomas Doran],
       CHORNY => q[Alexandr Ciornii],
       CORION => q[Max Maischein],
       DAGOLDEN => q[David Golden],
@@ -42,6 +42,7 @@ CONTAINED AUTHORS
       DROLSKY => q[Dave Rolsky],
       DWHEELER => q[David E. Wheeler],
       ELIZABETH => q[Elizabeth Mattijsen],
+      ETHER => q[Karen Etheridge],
       FERREIRA => q[Adriano Ferreira],
       FLORA => q[Florian Ragwitz],
       GAAS => q[Gisle Aas],
@@ -82,6 +83,7 @@ CONTAINED AUTHORS
       SAPER => q[Sebastien Aperghis-Tramoni],
       SBECK => q[Sullivan Beck],
       SBURKE => q[Sean M. Burke],
+      SHAY => q[Steve Hay],
       SIMONW => q[Simon Wistow],
       SMPETERS => q[Steve Peters],
       SMUELLER => q[Steffen Mueller],
