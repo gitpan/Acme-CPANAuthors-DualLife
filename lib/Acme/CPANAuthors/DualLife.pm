@@ -1,8 +1,5 @@
 package Acme::CPANAuthors::DualLife;
-{
-  $Acme::CPANAuthors::DualLife::VERSION = '0.30';
-}
-
+$Acme::CPANAuthors::DualLife::VERSION = '0.32';
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
 
 use strict;
@@ -51,6 +48,7 @@ use Acme::CPANAuthors::Register (
   MSCHWERN => q[Michael G Schwern],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
+  NEILB => q[Neil Bowers],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
   PEVANS => q[Paul Evans],
@@ -66,7 +64,6 @@ use Acme::CPANAuthors::Register (
   SALVA => q[Salvador Fandino Garcia],
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
-  SBURKE => q[Sean M. Burke],
   SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
@@ -84,13 +81,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.30
+version 0.32
 
 =head1 SYNOPSIS
 
@@ -155,6 +154,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MSCHWERN => q[Michael G Schwern],
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
+  NEILB => q[Neil Bowers],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
   PEVANS => q[Paul Evans],
@@ -170,7 +170,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   SALVA => q[Salvador Fandino Garcia],
   SAPER => q[Sebastien Aperghis-Tramoni],
   SBECK => q[Sullivan Beck],
-  SBURKE => q[Sean M. Burke],
   SHAY => q[Steve Hay],
   SIMONW => q[Simon Wistow],
   SMPETERS => q[Steve Peters],
@@ -193,7 +192,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Chris Williams.
+This software is copyright (c) 2014 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
