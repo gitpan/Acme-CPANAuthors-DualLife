@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.32
+    version 0.34
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -43,6 +43,7 @@ CONTAINED AUTHORS
       DWHEELER => q[David E. Wheeler],
       ELIZABETH => q[Elizabeth Mattijsen],
       ETHER => q[Karen Etheridge],
+      EXODIST => q[Chad Granum],
       FERREIRA => q[Adriano Ferreira],
       FLORA => q[Florian Ragwitz],
       GAAS => q[Gisle Aas],
@@ -90,7 +91,7 @@ CONTAINED AUTHORS
       TJENNESS => q[Tim Jenness],
       TODDR => q[Todd Rinaldo],
       TOMHUGHES => q[Tom Hughes],
-      YVES => q[Yves],
+      WOLFSAGE => q[Matthew Horsfall (alh)],
       ZEFRAM => q[Andrew Main (Zefram)],
 
 SEE ALSO

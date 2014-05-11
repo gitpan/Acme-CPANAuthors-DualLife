@@ -3,23 +3,23 @@ abstract: 'We are CPAN Authors of Dual Life core modules'
 author:
   - 'Chris Williams'
 build_requires:
-  File::Spec: 0
-  IO::Handle: 0
-  IPC::Open3: 0
-  Test::More: 0.47
+  File::Spec: '0'
+  IO::Handle: '0'
+  IPC::Open3: '0'
+  Test::More: '0.47'
 configure_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: '6.30'
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.012, CPAN::Meta::Converter version 2.133380'
+generated_by: 'Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.141170'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: Acme-CPANAuthors-DualLife
 requires:
-  Acme::CPANAuthors: 0
+  Acme::CPANAuthors: '0'
   perl: v5.6.0
 resources:
   homepage: https://github.com/bingos/acme-cpanauthors-duallife
   repository: https://github.com/bingos/acme-cpanauthors-duallife.git
-version: 0.32
+version: '0.34'

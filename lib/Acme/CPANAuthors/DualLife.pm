@@ -1,5 +1,5 @@
 package Acme::CPANAuthors::DualLife;
-$Acme::CPANAuthors::DualLife::VERSION = '0.32';
+$Acme::CPANAuthors::DualLife::VERSION = '0.34';
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
 
 use strict;
@@ -24,6 +24,7 @@ use Acme::CPANAuthors::Register (
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
+  EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -71,7 +72,7 @@ use Acme::CPANAuthors::Register (
   TJENNESS => q[Tim Jenness],
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
-  YVES => q[Yves],
+  WOLFSAGE => q[Matthew Horsfall (alh)],
   ZEFRAM => q[Andrew Main (Zefram)],
 );
 
@@ -89,7 +90,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.32
+version 0.34
 
 =head1 SYNOPSIS
 
@@ -130,6 +131,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
+  EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -177,7 +179,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   TJENNESS => q[Tim Jenness],
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
-  YVES => q[Yves],
+  WOLFSAGE => q[Matthew Horsfall (alh)],
   ZEFRAM => q[Andrew Main (Zefram)],
 
 =head1 SEE ALSO
