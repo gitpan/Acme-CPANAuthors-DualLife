@@ -3,7 +3,7 @@ NAME
     modules
 
 VERSION
-    version 0.34
+    version 0.36
 
 SYNOPSIS
         use Acme::CPANAuthors;
@@ -38,7 +38,6 @@ CONTAINED AUTHORS
       DANKOGAI => q[Dan Kogai],
       DAPM => q[David A P Mitchell],
       DLAND => q[David Landgren],
-      DOM => q[Dominic Hargreaves],
       DROLSKY => q[Dave Rolsky],
       DWHEELER => q[David E. Wheeler],
       ELIZABETH => q[Elizabeth Mattijsen],
@@ -57,12 +56,12 @@ CONTAINED AUTHORS
       JSTOWE => q[Jonathan Stowe],
       JV => q[Johan Vromans],
       KANE => q[Jos Boumans],
+      LEEJO => q[Lee Johnson],
       LEONT => q[Leon Timmermans],
       LLAP => q[Leo Lapworth],
       MAKAMAKA => q[Makamaka Hannyaharamitu],
       MALLEN => q[Mark Allen],
       MAREKR => q[Marek Rouchal],
-      MARKSTOS => q[Mark Stosberg],
       MHX => q[Marcus Holland-Moritz],
       MJD => q[Mark Jason Dominus],
       MSCHWERN => q[Michael G Schwern],

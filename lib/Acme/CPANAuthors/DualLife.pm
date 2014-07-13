@@ -1,5 +1,5 @@
 package Acme::CPANAuthors::DualLife;
-$Acme::CPANAuthors::DualLife::VERSION = '0.34';
+$Acme::CPANAuthors::DualLife::VERSION = '0.36';
 #ABSTRACT: We are CPAN Authors of Dual Life core modules
 
 use strict;
@@ -19,7 +19,6 @@ use Acme::CPANAuthors::Register (
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
-  DOM => q[Dominic Hargreaves],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
@@ -38,12 +37,12 @@ use Acme::CPANAuthors::Register (
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
+  LEEJO => q[Lee Johnson],
   LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
-  MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
@@ -90,7 +89,7 @@ Acme::CPANAuthors::DualLife - We are CPAN Authors of Dual Life core modules
 
 =head1 VERSION
 
-version 0.34
+version 0.36
 
 =head1 SYNOPSIS
 
@@ -126,7 +125,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
   DLAND => q[David Landgren],
-  DOM => q[Dominic Hargreaves],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
@@ -145,12 +143,12 @@ It is currently statically generated information, I hope to make it dynamic in t
   JSTOWE => q[Jonathan Stowe],
   JV => q[Johan Vromans],
   KANE => q[Jos Boumans],
+  LEEJO => q[Lee Johnson],
   LEONT => q[Leon Timmermans],
   LLAP => q[Leo Lapworth],
   MAKAMAKA => q[Makamaka Hannyaharamitu],
   MALLEN => q[Mark Allen],
   MAREKR => q[Marek Rouchal],
-  MARKSTOS => q[Mark Stosberg],
   MHX => q[Marcus Holland-Moritz],
   MJD => q[Mark Jason Dominus],
   MSCHWERN => q[Michael G Schwern],
